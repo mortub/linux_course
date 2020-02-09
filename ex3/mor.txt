@@ -1,0 +1,9 @@
+compilers
+git
+ÈÑ™mor.sle.lst
+mor.txt
+shell
+shell.c
+TOFþmor.sle.tok
+workspace_etoop
+workspace_net
