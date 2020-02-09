@@ -1,6 +1,3 @@
-mor tubul 
-מור טובול
-id: 311420418
 
 note:
 the compilation worked for me with :
